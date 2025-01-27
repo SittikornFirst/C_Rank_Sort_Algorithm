@@ -1,4 +1,3 @@
-# C_Rank_Sort_Algorithm
 # Parallel Rank Sort
 
 This project demonstrates the implementation of a parallel version of the **Rank Sort** algorithm using OpenMP. It performs sorting of randomly generated arrays and measures the performance (execution time) for different array sizes and thread counts.
