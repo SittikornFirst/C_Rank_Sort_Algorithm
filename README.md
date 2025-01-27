@@ -21,6 +21,5 @@ To compile the program, run the following command:
 
 ```bash
 gcc -fopenmp -o parallel_rank_sort parallel_rank_sort.c
-
-```bash
 ./parallel_rank_sort
+```
